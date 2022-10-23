@@ -171,7 +171,7 @@ It is possible to declare any attribute using the `data-` prefix
 
 The `<header>` HTML tag element is used to identify the top of a webpage, article, section, or other segment of a page. The header is normally always the same across all pages of your website.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f26a33e1-8fc6-4c1b-bc20-1af38dda5a7e/Untitled.png)
+![Untitled](https://github.com/DaisyGeraldine/holbertonschool-web_front_end/blob/master/images/header.png?raw=true)
 
 # **Usage**
 
