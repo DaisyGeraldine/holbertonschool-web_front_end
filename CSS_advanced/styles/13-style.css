@@ -69,6 +69,6 @@ a:visited{
 a:hover{
     text-decoration: underline;
 }
-a:local-link{
+a:link{
     color: var(--color-light-grey);
- }
+}
