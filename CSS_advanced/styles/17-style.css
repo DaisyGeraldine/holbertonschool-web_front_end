@@ -27,13 +27,13 @@ a{
 }
 .section-header{
     text-align: var(--section-header-align);
-    padding: var(--section-header-padding) var(--section-header-padding) var(--section-header-padding) var(--section-header-padding);
+    padding: var(--section-header-padding);
 }
 .section-body{
-    padding: var(--section-body-padding) var(--section-body-padding) var(--section-body-padding) var(--section-body-padding);
+    padding: var(--section-body-padding);
 }
 .section-footer{
-    padding: var(--section-footer-padding) var(--section-footer-padding) var(--section-footer-padding) var(--section-footer-padding);
+    padding: var(--section-footer-padding);
     align-content: var(--section-footer-align);
 }
 .section-title{
