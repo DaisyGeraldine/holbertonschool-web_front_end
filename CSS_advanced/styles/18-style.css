@@ -123,7 +123,7 @@ a:active{
     font-family: var(--nav-item-font-family);
     font-weight: var(--nav-item-font-weight);
     font-size: var(--nav-item-font-size);
-    word-spacing: var(--nav-item-letter-spacing);
+    letter-spacing: var(--nav-item-letter-spacing);
     display: var(--nav-item-display);
     margin: var(--nav-item-margin);
 }
@@ -135,7 +135,7 @@ a:active{
     padding-right: 50px;
 }
 .nav .nav-link:hover{
-    background-color: var(--nav-item-link-hover);
+    color: var(--nav-item-link-hover);
 }
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 
