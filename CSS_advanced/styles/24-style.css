@@ -178,15 +178,15 @@ ul.row{
 .social-link > svg{
     fill: var(--text-color);
 }
-.card-title < .card-services{
+.card-services .card-title{
     margin: none;
 }
-a < .card-services{
+a .card-services{
     display: block;
     padding: 2xrem;
     background-color: var(--color-light-grey);
 }
-a < .card-services:hover{
+a .card-services:hover{
     color: var(--color-white);
     background-color: var(--color-primary);
     text-decoration: none;
