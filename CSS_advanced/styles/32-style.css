@@ -336,8 +336,7 @@ ul.row{
 }
 .button:hover{
     transition-duration: var(--transition-duration);
-    transition-property: background-color;
-    transition-property: color;
+    transition-property: all;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
