@@ -299,8 +299,12 @@ ul.row{
     text-decoration: none;
     padding-top: 45%;
 }
-a::after .card-work .card-title{
-    position: 0 0 0 0;
+.card-work .card-title a::after{
+    position: 0;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
 }
 .card-work:hover .card-title{
     opacity: 1;
